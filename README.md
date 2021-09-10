@@ -1,14 +1,14 @@
-# Typing Test
+# Groceries By Meal
 
-An experimental typing test with React and a Neumorphism UI design style.
+Decide your groceries by meal.
 
-![Typing Test By Nafeu](http://nafeu.com/typing-test/app-preview.png)
+![Groceries By Meal By Nafeu](https://nafeu.com/groceries-by-meal/app-preview.png)
 
 ## Installation
 
 ```
-git clone https://github.com/nafeu/typing-test.git
-cd typing-test
+git clone https://github.com/nafeu/groceries-by-meal.git
+cd groceries-by-meal
 npm install
 ```
 

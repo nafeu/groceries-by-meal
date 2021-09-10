@@ -6,8 +6,7 @@
 }
 
 .app-container {
-  width: 75%;
-  margin: 5%;
+  width: 100%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -23,9 +22,31 @@
   }
 }
 
-.typing-area {
-  opacity: 0;
-  position: absolute;
+.meals {
+  border-radius: 5px;
+  margin: 2em;
+}
+
+.meal {
+  padding: 1em;
+}
+
+.meal-name {
+  font-size: 1.5em;
+  margin-left: 0.25em;
+  font-weight: bold;
+}
+
+.meal-ingredients {
+  display: flex;
+  flex-wrap: wrap
+}
+
+.meal-ingredient {
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 5px;
+  border: 1px solid black;
 }
 
 .row {

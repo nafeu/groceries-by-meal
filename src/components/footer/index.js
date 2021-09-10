@@ -7,7 +7,7 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 const Footer = () => {
   return (
     <div className="page-footer">
-      <a href="https://github.com/nafeu/typing-test">
+      <a href="https://github.com/nafeu/groceries-by-meal">
         <FontAwesomeIcon icon={faGithub} />
       </a>{" "}
       / Made with <FontAwesomeIcon icon={faHeart} /> by{" "}

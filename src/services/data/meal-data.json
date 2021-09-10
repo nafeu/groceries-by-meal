@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Broccoli & Mushroom Stir Fry",
+    "ingredients": [
+      "broccoli",
+      "mushroom",
+      "garlic",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Chicken Salad",
+    "ingredients": [
+      "chicken breast",
+      "romaine lettuce",
+      "tomato",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Air Fried Tofu",
+    "ingredients": [
+      "tofu"
+    ]
+  },
+  {
+    "name": "Morning Fruits",
+    "ingredients": [
+      "banana",
+      "orange",
+      "dates",
+      "strawberry"
+    ]
+  },
+  {
+    "name": "Supplementary Dairy",
+    "ingredients": [
+      "milk",
+      "cheese",
+      "creamer",
+      "yogurt",
+      "eggs"
+    ]
+  },
+  {
+    "name": "Air Fried Potato",
+    "ingredients": [
+      "potato"
+    ]
+  },
+  {
+    "name": "Rice and Beans w/ Ground Chicken",
+    "ingredients": [
+      "ground chicken",
+      "beans",
+      "rice",
+      "avocado",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Tofu Curry",
+    "ingredients": [
+      "coconut milk",
+      "sweet potato",
+      "mushroom",
+      "tofu"
+    ]
+  },
+  {
+    "name": "Chicken & Lentil Rice",
+    "ingredients": [
+      "chicken thighs",
+      "lentil",
+      "rice"
+    ]
+  },
+  {
+    "name": "Chicken Biryani",
+    "ingredients": [
+      "chicken thighs",
+      "brown rice",
+      "tomato",
+      "lemon",
+      "yogurt",
+      "fried onion"
+    ]
+  },
+  {
+    "name": "Chicken Wings",
+    "ingredients": [
+      "chicken wings",
+      "hot sauce",
+      "honey garlic bbq sauce"
+    ]
+  }
+]
