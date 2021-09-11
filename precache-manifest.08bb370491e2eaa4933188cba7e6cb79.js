@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "260b761fd6dc1b99078b822d4be8baef",
+    "revision": "e53f3fd39deb338e748ab427fab561bc",
     "url": "/groceries-by-meal/index.html"
   },
   {
-    "revision": "3dd4915e43238d115f22",
+    "revision": "04dfac1341ab58a9287c",
     "url": "/groceries-by-meal/static/css/2.23f03c77.chunk.css"
   },
   {
-    "revision": "ad9cae8ba012454ac56d",
-    "url": "/groceries-by-meal/static/css/main.3b88039e.chunk.css"
+    "revision": "2fabbbbfca1e429f2576",
+    "url": "/groceries-by-meal/static/css/main.81efc5b0.chunk.css"
   },
   {
-    "revision": "3dd4915e43238d115f22",
-    "url": "/groceries-by-meal/static/js/2.a2985332.chunk.js"
+    "revision": "04dfac1341ab58a9287c",
+    "url": "/groceries-by-meal/static/js/2.4a56f6c0.chunk.js"
   },
   {
-    "revision": "bfd04eb851fbc8ea43c375cc9d698376",
-    "url": "/groceries-by-meal/static/js/2.a2985332.chunk.js.LICENSE.txt"
+    "revision": "50291fe26f690200ea6ca277a442a030",
+    "url": "/groceries-by-meal/static/js/2.4a56f6c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad9cae8ba012454ac56d",
-    "url": "/groceries-by-meal/static/js/main.d2c0477a.chunk.js"
+    "revision": "2fabbbbfca1e429f2576",
+    "url": "/groceries-by-meal/static/js/main.d2183b57.chunk.js"
   },
   {
     "revision": "a88a7e4b17b23a314965",
