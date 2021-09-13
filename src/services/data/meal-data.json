@@ -93,5 +93,14 @@
       "hot sauce",
       "honey garlic bbq sauce"
     ]
+  },
+  {
+    "name": "Oatmeal",
+    "ingredients": [
+      "steel cut oats",
+      "milk",
+      "peanut butter",
+      "nuts"
+    ]
   }
 ]
